@@ -49,7 +49,7 @@ weight = 7
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"
 googleAnalitycsID = "UA-156657834-1"
-logo = "images/favicon"
+logo = "images/favicon.png"
 postShare = true
 [[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"
