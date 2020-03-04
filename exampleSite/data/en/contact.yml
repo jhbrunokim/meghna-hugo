@@ -2,10 +2,14 @@
 contact:
   enable: true
   title: Contact Us
-  subtitle: Contact Details
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero,
-    provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores
-    dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+  subtitle: 주식회사 이솝이야기
+  content: |-
+    Copyright © 2019-2020 Aesop Inc. All Rights Reserved.
+
+    주식회사 이솝이야기 대표이사 김도현
+    사업자등록번호 685-81-01570
+
+    본 사이트의 콘텐츠는 저작권법의 보호를 받는바, 무단 전재, 복사, 배포 등을 금합니다.
   form_Action: "#"
   map:
     enable: true
