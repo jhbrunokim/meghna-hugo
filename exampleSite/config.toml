@@ -5,13 +5,13 @@ paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
 title = "Meghna"
-[Languages.en]
+[Languages.ko]
 contentDir = "content/korea"
 home = "홈"
 languageCode = "ko-kr"
 languageName = "Ko"
 weight = 1
-[Languages.fr]
+[Languages.en]
 contentDir = "content/english"
 home = "Home"
 languageCode = "en-us"
