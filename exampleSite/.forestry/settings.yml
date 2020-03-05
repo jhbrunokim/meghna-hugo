@@ -7,7 +7,7 @@ sections:
 - type: heading
   label: Blog Post
 - type: directory
-  path: exampleSite/content/english/blog
+  path: exampleSite/content/korea/blog
   label: Post (ko)
   create: documents
   match: "**/*"
@@ -15,7 +15,7 @@ sections:
   templates:
   - post
 - type: directory
-  path: exampleSite/content/french/blog
+  path: exampleSite/content/english/blog
   label: Post (en)
   create: documents
   match: "**/*"
@@ -24,14 +24,14 @@ sections:
 - type: heading
   label: Author
 - type: directory
-  path: exampleSite/content/english/author
+  path: exampleSite/content/korea/author
   label: Author (ko)
   create: documents
   match: "**/*"
   templates:
   - author
 - type: directory
-  path: exampleSite/content/french/author
+  path: exampleSite/content/english/author
   label: Author (en)
   create: documents
   match: "**/*"
