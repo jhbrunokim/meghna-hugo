@@ -6,16 +6,16 @@ summaryLength = "15"
 theme = "meghna-hugo"
 title = "Meghna"
 [Languages.en]
+contentDir = "content/korea"
+home = "홈"
+languageCode = "ko-kr"
+languageName = "Ko"
+weight = 1
+[Languages.fr]
 contentDir = "content/english"
 home = "Home"
 languageCode = "en-us"
-languageName = "Kr"
-weight = 1
-[Languages.fr]
-contentDir = "content/french"
-home = "Accueil"
-languageCode = "fr-fr"
-languageName = "Fr"
+languageName = "En"
 weight = 2
 [[menu.main]]
 URL = "contact"
