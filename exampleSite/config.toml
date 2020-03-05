@@ -9,7 +9,7 @@ title = "Meghna"
 contentDir = "content/english"
 home = "Home"
 languageCode = "en-us"
-languageName = "En"
+languageName = "Kr"
 weight = 1
 [Languages.fr]
 contentDir = "content/french"
@@ -18,38 +18,34 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.main]]
-URL = "about"
-name = "About Us"
-weight = 1
+URL = "contact"
+name = "문의사항"
+weight = 6
 [[menu.main]]
-URL = "services"
-name = "Service"
-weight = 2
+URL = "blog"
+name = "Blog"
+weight = 5
+[[menu.main]]
+URL = "team"
+name = "팀원소개"
+weight = 4
 [[menu.main]]
 URL = "portfolio"
 name = "Portfolio"
 weight = 3
 [[menu.main]]
-URL = "team"
-name = "Team"
-weight = 4
+URL = "services"
+name = "Service"
+weight = 2
 [[menu.main]]
-URL = "pricing"
-name = "Pricing"
-weight = 5
-[[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 6
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 7
+URL = "about"
+name = "회사소개"
+weight = 1
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"
 googleAnalitycsID = "UA-156657834-1"
-logo = "images/logo.png"
+logo = "images/favicon.png"
 postShare = true
 [[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"
